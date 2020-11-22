@@ -23,7 +23,7 @@
 		<?php wp_head(); ?>
 		<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
 		<link rel="stylesheet" type="text/css" href="<?php bloginfo( 'template_url' ); ?>/components/slick-slider/slick-theme.css">
-
+ 
 	</head>
 	  <style type="text/css">
     html, body {
