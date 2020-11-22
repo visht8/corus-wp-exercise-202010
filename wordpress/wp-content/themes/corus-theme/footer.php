@@ -12,7 +12,7 @@
  */
 
 ?>
-
+ 
 
 <?php wp_footer(); ?>
 <script src="https://code.jquery.com/jquery-2.2.0.min.js" type="text/javascript"></script>
