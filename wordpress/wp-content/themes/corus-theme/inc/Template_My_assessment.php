@@ -3,7 +3,7 @@
 get_header();
 ?>
 
-
+ 
 <h2> SIngle Item Slider with specific post ID </h2>
   
 <?php
