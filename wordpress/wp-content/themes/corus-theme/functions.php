@@ -26,4 +26,4 @@ function my_custom_post_gallery() {
   );
   register_post_type( 'gallery', $args ); 
 }
-add_action( 'init', 'my_custom_post_gallery' );
+add_action( 'init', 'my_custom_post_gallery' ); 
